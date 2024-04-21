@@ -102,8 +102,3 @@
 	</tbody>
 	</table>
 </div>
-<script>
-	var obParams = new JCCatalogSectionComponent({
-		iBlockId: '<?=$arParams['ID_IBLOCK']?>',
-	});
-</script>
